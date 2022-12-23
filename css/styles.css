@@ -408,7 +408,7 @@ ul {
 
 .terms-link{
   color: var(--hover-color);
-  margin: 0 0 5px 0;
+  margin: 0 0 0 5px;
 }
 .form-btn{
   width: 200px;
